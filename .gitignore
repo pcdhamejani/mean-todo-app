@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+NodeJs/node_modules/
+to-do-app/node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+NodeJs/package-lock.json
+to-do-app/package-lock.json
+
+# Build directories
+NodeJs/dist/
+to-do-app/dist/
+NodeJs/public/
+to-do-app/public/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Angular files
+to-do-app/.angular/
+to-do-app/.editorconfig
+to-do-app/angular.json
+
+# Tailwind
+to-do-app/tailwind.config.js
